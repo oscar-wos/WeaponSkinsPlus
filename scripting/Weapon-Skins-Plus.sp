@@ -62,7 +62,7 @@ public Plugin myinfo = {
 	author = "Oscar Wos (OSWO)",
 	description = "WeaponSkins++",
 	version = PLUGIN_VERSION,
-	url = "",
+	url = "https://github.com/OSCAR-WOS / https://steamcommunity.com/id/OSWO",
 };
 
 char gC_Knives[][][] = {
