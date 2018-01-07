@@ -17,7 +17,7 @@ Pawn 1.8 - build 6040
 ## Authors
 
 * **Oscar Wos** - *Whole Project* - [AlliedModders](https://forums.alliedmods.net/member.php?u=261698) | [GitHub](https://github.com/OSCAR-WOS)
-* **bcserv** - *smlib.inc* - [GitHub](https://github.com/bcserv)
+* **bcserv** - *smlib.inc* - [AlliedModders](https://forums.alliedmods.net/member.php?u=27799) | [GitHub](https://github.com/bcserv)
 * **KyleS** - *SteamWorks.inc* - [AlliedModders](https://forums.alliedmods.net/member.php?u=57030) | [GitHub](https://github.com/KyleSanderson)
 
 ## License
